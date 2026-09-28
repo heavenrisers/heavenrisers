@@ -12,25 +12,17 @@ while also exploring full-stack development and AI/ML.
 
 ## 🛠️ Tech Stack
 
-### Languages
-Java • Python • JavaScript • SQL
+**Languages:** Java • Python • JavaScript • SQL
 
-### Backend
-Java • Spring Boot • Spring MVC • REST APIs • JDBC • Servlets • JSP
+**Backend:** Spring Boot • Spring MVC • REST APIs • JDBC • Servlets • JSP
 
-### Frontend
-HTML • CSS • JavaScript • React
+**Frontend:** HTML • CSS • JavaScript • React
 
-### Databases
-MySQL • MongoDB
+**Databases:** MySQL • MongoDB
 
-### AI / Data
-Python • NumPy • Pandas • Matplotlib • Machine Learning Concepts
+**AI / Data:** Python • NumPy • Pandas • Matplotlib • ML Concepts
 
-### Tools
-Git • GitHub • Maven • Postman
-
----
+**Tools:** Git • GitHub • Maven • Postman
 
 ## 🚀 Featured Projects
 
